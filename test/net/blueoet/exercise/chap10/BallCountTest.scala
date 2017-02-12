@@ -4,7 +4,7 @@ import net.bluepoet.exercise.chap10.Ex_10_2._
 import org.scalatest.FlatSpec
 
 /**
-  * Created by Mac on 2017. 2. 12..
+  * Created by bluepoet on 2017. 2. 12..
   */
 class BallCountTest extends FlatSpec {
   "3 numbers all not match" should "3 out!!" in {
